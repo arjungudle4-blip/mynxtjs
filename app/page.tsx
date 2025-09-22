@@ -96,7 +96,9 @@ export default function Home() {
             height={16}
           />
           Go to nextjs.org →
-          <b>Name:Arjun Gudle</b>
+          <b>Name:Arjun Gudle
+            changes made
+          </b>
         </a>
       </footer>
     </div>
